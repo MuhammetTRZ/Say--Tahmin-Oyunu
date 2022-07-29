@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "14e99579-627e-4f60-ab05-6b51d8ca5202": {
+      "ProjectGuid": "14e99579-627e-4f60-ab05-6b51d8ca5202",
+      "DisplayName": "Sayı Tahmin Oyunu",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
